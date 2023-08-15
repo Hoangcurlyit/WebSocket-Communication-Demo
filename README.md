@@ -28,9 +28,11 @@ This project is designed as a learning exercise for understanding how to impleme
 1. Install the required Python packages:
 ```bash
 pip install -r requirements.txt
+```
 2. Start the WebSocket server:
 ```bash
 python server.py
+```
 3. Open the client application:
 Open the client.html file in a modern web browser.
 4. Grant necessary permissions:
